@@ -8,5 +8,6 @@ public class Demo2 {
 
 	public String test2(){
 		System.out.println("第二个测试方法!");
+		return null;
 	}
 }
